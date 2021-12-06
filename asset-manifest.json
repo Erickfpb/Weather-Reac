@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Erickfpb/Weather-React/static/css/main.13806c75.chunk.css",
-    "main.js": "/Erickfpb/Weather-React/static/js/main.608f0b97.chunk.js",
-    "main.js.map": "/Erickfpb/Weather-React/static/js/main.608f0b97.chunk.js.map",
-    "runtime-main.js": "/Erickfpb/Weather-React/static/js/runtime-main.9c6ab431.js",
-    "runtime-main.js.map": "/Erickfpb/Weather-React/static/js/runtime-main.9c6ab431.js.map",
-    "static/js/2.c17f580d.chunk.js": "/Erickfpb/Weather-React/static/js/2.c17f580d.chunk.js",
-    "static/js/2.c17f580d.chunk.js.map": "/Erickfpb/Weather-React/static/js/2.c17f580d.chunk.js.map",
-    "static/js/3.5120765f.chunk.js": "/Erickfpb/Weather-React/static/js/3.5120765f.chunk.js",
-    "static/js/3.5120765f.chunk.js.map": "/Erickfpb/Weather-React/static/js/3.5120765f.chunk.js.map",
-    "index.html": "/Erickfpb/Weather-React/index.html",
-    "static/css/main.13806c75.chunk.css.map": "/Erickfpb/Weather-React/static/css/main.13806c75.chunk.css.map",
-    "static/js/2.c17f580d.chunk.js.LICENSE.txt": "/Erickfpb/Weather-React/static/js/2.c17f580d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Erickfpb/Weather-React/static/media/tumblr_odnrvedGW31qhttpto1_540.c5399654.jpg"
+    "main.css": "/erickfpb/Weather-React/static/css/main.c430c9a2.chunk.css",
+    "main.js": "/erickfpb/Weather-React/static/js/main.608f0b97.chunk.js",
+    "main.js.map": "/erickfpb/Weather-React/static/js/main.608f0b97.chunk.js.map",
+    "runtime-main.js": "/erickfpb/Weather-React/static/js/runtime-main.47935aca.js",
+    "runtime-main.js.map": "/erickfpb/Weather-React/static/js/runtime-main.47935aca.js.map",
+    "static/js/2.c17f580d.chunk.js": "/erickfpb/Weather-React/static/js/2.c17f580d.chunk.js",
+    "static/js/2.c17f580d.chunk.js.map": "/erickfpb/Weather-React/static/js/2.c17f580d.chunk.js.map",
+    "static/js/3.5120765f.chunk.js": "/erickfpb/Weather-React/static/js/3.5120765f.chunk.js",
+    "static/js/3.5120765f.chunk.js.map": "/erickfpb/Weather-React/static/js/3.5120765f.chunk.js.map",
+    "index.html": "/erickfpb/Weather-React/index.html",
+    "static/css/main.c430c9a2.chunk.css.map": "/erickfpb/Weather-React/static/css/main.c430c9a2.chunk.css.map",
+    "static/js/2.c17f580d.chunk.js.LICENSE.txt": "/erickfpb/Weather-React/static/js/2.c17f580d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/erickfpb/Weather-React/static/media/tumblr_odnrvedGW31qhttpto1_540.c5399654.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c6ab431.js",
+    "static/js/runtime-main.47935aca.js",
     "static/js/2.c17f580d.chunk.js",
-    "static/css/main.13806c75.chunk.css",
+    "static/css/main.c430c9a2.chunk.css",
     "static/js/main.608f0b97.chunk.js"
   ]
 }
